@@ -1,2 +1,2 @@
-# IEEE-RnD-
+# IEEE-RnD
 Linear Regression Model
